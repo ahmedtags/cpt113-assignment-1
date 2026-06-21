@@ -1,5 +1,18 @@
 # CPT113 - Data Structures (Assignment 1)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/Course-CPT113-24292e?style=for-the-badge" alt="Course" />
+  <a href="https://github.com/ahmedtags">
+    <img src="https://img.shields.io/badge/Profile-ahmedtags-D9A34A?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
+  </a>
+  <a href="https://blxman-37fy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blxman--37fy-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 This repository contains the C++ implementations for **CPT113: Data Structures - Assignment 1** (Academic Session 2024/2025) at Universiti Sains Malaysia (USM).
 
 ## Course Details
@@ -92,4 +105,3 @@ Gratuity: RM140400
 Select an option: 5
 Exiting the application. Goodbye!
 ```
-
