@@ -43,3 +43,53 @@ The assignment focuses on understanding and implementing foundational abstract d
    ./stack_queue_app
    ```
 3. Use the menu options inside the command line console to add elements, pop/dequeue elements, and check sizes.
+
+---
+
+## 📸 Sample Output
+
+```
+===== Pension Eligibility and Calculation App (PECA) =====
+1. Input Personal Information
+2. Input Service and Wages Information
+3. Display Service and Wages Information
+4. Set Pension Date and Calculate Pension Estimation
+5. Exit
+Select an option: 1
+
+Enter Employee ID: EMP002
+Enter Employee Name: Sara Ahmed
+Your Date of Birth Information:
+Day: 10   Month: 5   Year: 1975
+
+Select an option: 2
+Service Information:
+Set Appointment Date:
+Day: 1   Month: 1   Year: 2000
+Enter Last Salary: RM6000
+Enter Total Allowance: RM1200
+
+Select an option: 4
+Set Pension Date:
+Day: 1   Month: 1   Year: 2026
+
+===== Employee Details =====
+
+Service Information:
+Name: Sara Ahmed
+ID: EMP002
+Date of Birth: 10/5/1975
+Date of Appointment: 1/1/2000
+Last Salary: RM6000
+Total Allowance: RM1200
+
+Pension Eligibility Calculation:
+Pension Eligibility Confirmed!
+Service Duration: 26 years and 0 months (312 months total).
+Estimated Monthly Pension: RM3126.24
+Gratuity: RM140400
+
+Select an option: 5
+Exiting the application. Goodbye!
+```
+
